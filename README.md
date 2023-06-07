@@ -16,10 +16,10 @@ This project can help your guys also on how to derive datasets from MIMIC-III us
 
 I have also built a `Streamlit` app to take $X_k$ parameters as input and predict the $y$ disease of the patient.
 
-$X_{k} \in $ ['Hemoglobin', 'Eosinophils', 'Lymphocytes', 'Monocytes',
+$X_{k}\in$ ['Hemoglobin', 'Eosinophils', 'Lymphocytes', 'Monocytes',
             'Basophils', 'Neutrophils', 'Red Blood Cells', 'White Blood Cells']
 
-$y \in $ ['Anemia', 'Leukemia', 'Thrombocytopenia', 'Thrombocytosis', 'Normal',....'Other']
+$y\in$ ['Anemia', 'Leukemia', 'Thrombocytopenia', 'Thrombocytosis', 'Normal',....'Other']
 
 Objectives of this project:
 -   Derive the Hematology Complete Blood Count (CBC) Dataset from the MIMIC-III dataset. (Done)
