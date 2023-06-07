@@ -10,7 +10,7 @@ This repository contains the code to derive the Hematology Complete Blood Count 
 
 Our objective is to derive a dataset that can be used to predict the disease of a patient based on the CBC values.
 
-I have acieved an accuracy of 0.01 using various machine learning algorithms. Which is very low. I am still working on it to improve the accuracy i have released the code so that others can contribute to it or give me some suggestions and feedback.
+I have achieved an accuracy of 0.01 using various machine learning algorithms. Which is very low. I am still working on it to improve the accuracy i have released the code so that others can contribute to it or give me some suggestions and feedback.
 
 This project can help your guys also on how to derive datasets from MIMIC-III using `Pandas`.
 
